@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DZ0.Android/DZ0.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="DZ0.Desktop/DZ0.Desktop.csproj" />
+  <Project Path="DZ0/DZ0.csproj" />
+</Solution>
